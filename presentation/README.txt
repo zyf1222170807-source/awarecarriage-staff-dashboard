@@ -1,0 +1,1 @@
+AwareCarriage presentation website. Slides are based on the supplied 23-page deck. Use arrow keys, swipe, or the on-screen controls. Video files are loaded as browser-playable segments.
